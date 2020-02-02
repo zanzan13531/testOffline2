@@ -1,0 +1,7 @@
+1. you need python 3
+2. go to the terminal and navigate to the folder that this file is in
+3. type "python -m http.server 1337"
+4. go to your browser and go to http://localhost:1337/
+5. you can make changes and save them while the host is open, and you can refresh
+the page in order to see the changes
+6. to stop hosting, go to the terminal and press ctrl + c
